@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Neovim
+.nvim/
+
+# Temporary files
+*.swp
+*.swo
+*~
