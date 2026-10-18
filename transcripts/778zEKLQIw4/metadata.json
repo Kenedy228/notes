@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "media": {
+    "type": "youtube",
+    "id": "778zEKLQIw4",
+    "title": "Константин Шкурко — PWA вместо App Store: замена нативного iOS-приложения и технические ограничения",
+    "url": "https://www.youtube.com/watch?v=778zEKLQIw4",
+    "path": null,
+    "duration_ms": 2636000
+  },
+  "source": {
+    "method": "automatic_subtitles",
+    "language": "ru",
+    "asr": null
+  },
+  "raw": {
+    "path": "raw/69f353e49484e05eeade7eb4dc8da1ffd625b943c6acb4a531a7a09403bd1a3f.json3",
+    "format": "json3",
+    "sha256": "69f353e49484e05eeade7eb4dc8da1ffd625b943c6acb4a531a7a09403bd1a3f",
+    "retrieved_at": "2026-10-18T12:55:13.879544Z"
+  },
+  "processing": {
+    "normalizer_version": 2
+  },
+  "diagnostics": {
+    "timed_coverage_ratio": 0.9896050834597876,
+    "longest_gap_ms": 20000
+  },
+  "created_at": "2026-10-18T12:55:13.894607Z",
+  "warnings": [
+    {
+      "code": "TIMESTAMP_OUT_OF_RANGE",
+      "message": "Таймкод выходит за длительность метаданных",
+      "segment_ids": [
+        "s001080"
+      ]
+    },
+    {
+      "code": "TIMESTAMP_OUT_OF_RANGE",
+      "message": "Таймкод выходит за длительность метаданных",
+      "segment_ids": [
+        "s001081"
+      ]
+    }
+  ]
+}
